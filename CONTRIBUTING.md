@@ -25,7 +25,7 @@ Supplemental Material information included within their page contains the follow
 * *Contents*: A toggle block containing either a transcription of the material's contents, or relevant information about the full scope of the link's contents.
 
 ### Tracking Number
-Resourcess within the Curriculum section must be ordered from 001 onwards in the expected order a student is to take them. The tracking number 000 is reserved for curriculum information only.
+Resources within the Curriculum section must be ordered from 001 onwards in the expected order a student is to take them. The tracking number 000 is reserved for curriculum information only.
 
 If there are different course tracks a student can take, label them with a letter—*A, B, C, and onwards... skipping X*—and group the courses by their letter in the order in which it is expected a student to take them.
 
